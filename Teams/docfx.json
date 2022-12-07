@@ -43,7 +43,7 @@
         "Microsoft Teams"
       ],
       "breadcrumb_path": "/microsoftteams/breadcrumb/toc.json",
-      "extendBreadcrumb": "true",
+      "extendBreadcrumb": "false",
       "uhfHeaderId": "MSDocsHeader-M365-IT",
       "ms.suite": "office",
       "titleSuffix": "Microsoft Teams",
